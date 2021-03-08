@@ -68,12 +68,7 @@ public class Rectangle {
     public static void   printClassName(boolean printInRussian){
 
 
-        if(printInRussian == true){
-            System.out.println( " Название класса - " + RUSSIAN_CLASS_NAME);
-        }
-        else{
-            System.out.println(" Название класса - " + ENGLISH_CLASS_NAME);
-        }
+
     }
 }
 
